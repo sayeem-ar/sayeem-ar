@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b>Adnan Mini</b>.
-    <br>I'm just a shadow<br>
+    <br>Just a shadow<br>
   </samp>
 
   <img src="https://static.wikia.nocookie.net/9b124040-5921-4ec6-bcad-d6526c8e2978/scale-to-width/755" width="200"/>
